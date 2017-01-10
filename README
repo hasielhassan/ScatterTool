@@ -1,4 +1,4 @@
-A minimal tool to scater objects over a polygonal surface.
+A minimal tool to scatter objects over a polygonal surface.
 
 To run the tool, adjust the path to the ScatterTool folder, and run the following code from within maya:
 
